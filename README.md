@@ -5,4 +5,4 @@ i just make an website to easy to access it and you do not have to wait hour on 
 and i get 404 error on the gitea website
 if you are hacked that is a CMDSoftworks issue, not my.
 
-. Solara status: patched .
+. Solara status: working .
